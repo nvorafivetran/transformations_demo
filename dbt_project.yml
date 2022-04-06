@@ -38,4 +38,4 @@ models:
       +materialized: view
 vars:
   salesforce_database: NIRAJ_VORA
-  salesforce_schema: SALESFORCE_SANDBOX_DEMO
+  salesforce_schema: SALESFORCE_SANDBOX
